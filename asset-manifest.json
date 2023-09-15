@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/huckbyte/huckbyte/static/css/main.073c9b0a.css",
+    "main.js": "/huckbyte/huckbyte/static/js/main.7f4aaee9.js",
+    "static/js/787.4dd1af32.chunk.js": "/huckbyte/huckbyte/static/js/787.4dd1af32.chunk.js",
+    "static/media/logo.svg": "/huckbyte/huckbyte/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/huckbyte/huckbyte/index.html",
+    "main.073c9b0a.css.map": "/huckbyte/huckbyte/static/css/main.073c9b0a.css.map",
+    "main.7f4aaee9.js.map": "/huckbyte/huckbyte/static/js/main.7f4aaee9.js.map",
+    "787.4dd1af32.chunk.js.map": "/huckbyte/huckbyte/static/js/787.4dd1af32.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7f4aaee9.js"
+  ]
+}
