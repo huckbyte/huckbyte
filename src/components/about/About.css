@@ -1,0 +1,173 @@
+
+#about{
+    position:relative;
+    background-color: transparent;
+    height: 100vh;
+    width: 100%;
+  
+    
+}
+
+h5 {
+
+    font-weight: 500;
+    text-align: center;
+    color: var(--color-light);
+    font-size: 1.9rem;
+}
+span {
+    color:red;
+    margin-left: 10px;
+    font-weight: 500;
+    font-size: 1.5rem;
+}
+
+.about .about-content .image{
+    position: relative;
+
+    left: 42%;
+    top: 0.7rem;
+
+}
+.about .about-content .image img{
+    height: 15rem;
+    width: 15rem;
+    object-fit: cover;
+    border-radius: 90%;
+}
+
+.about .about-content .right .text{
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.hidden {
+    opacity: 0;
+    transition: all 0.5s;
+    filter: blur(5px);
+    transform: translateX(-100%);
+}
+.show {
+    opacity: 1;
+    filter: blur(0);
+    transform: translateX(0);
+}
+
+
+.intro .text span{
+    color: crimson;
+}
+.intro {
+    margin-top: 31rem;
+    position: relative;
+    bottom: 30rem;
+    left: 25%;
+    width: 800px;
+    height: 380px;
+    border-radius: 5%;
+    border: 1px solid rgb(5, 175, 253);
+    background-color: transparent;
+    
+}
+
+.intro .text {
+    margin-left: 15px;
+    margin-top: 1.5rem;
+    font-size: 18px;
+}
+.text p{
+    text-align: justify;
+}
+.about .about-content .right a{
+    display: inline-block;
+    background: crimson;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 10px 30px;
+    margin-top: 20px;
+    border-radius: 6px;
+    border: 2px solid crimson;
+    transition: all 0.3s ease;
+}
+.about .about-content .right a:hover{
+    color: crimson;
+    background: none;
+}
+
+
+
+ /* less than 600 */
+ /* ============= mediafro small devices  query ======== */
+
+
+@media screen and (max-width :1024px) {
+    
+  
+    .about_content{
+        grid-template-columns: 1fr;
+        gap: 0;
+      
+    }      
+
+    .about_me{
+        
+        width: 50%;
+        margin: 2rem auto 4rem;
+    }
+    .about_content p {
+        margin: 1rem 0 1.5rem;
+
+    }
+    .about .about-content .image{
+        margin-left: 0rem;
+        position: relative;
+        left: 32%;
+        top: 0.7rem;
+    
+    }
+    .intro {
+    margin-top: 31rem;
+    width: 70%;
+    margin-left: 0rem;
+    }
+
+ }
+ 
+ /* less than 600 */
+ /* ============= mediafro small devices  query ======== */
+ 
+ @media screen and (max-width :600px) {
+   
+    .about_mem{
+        width: 65%;
+        margin:0 auto 3rem ;
+        gap: 1rem;
+
+    }
+    .cards {
+        grid-template-columns: 1fr 1fr;
+        gap: 1rem;
+
+    }
+
+    .about_content {
+        text-align: center;
+    }
+
+    .about_content p {
+        margin: 1.5rem 0;
+    }
+    .intro {
+    height: 500px;
+    left: 30%;
+    width: 75%;
+        
+    }
+    .about .about-content .image{
+        left: 30%;
+        top: 0.7rem;
+    
+    }
+    
+ }

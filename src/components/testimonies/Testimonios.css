@@ -1,0 +1,100 @@
+#teams {
+    position: relative;
+    background-color: transparent;
+    margin-top: 5rem;
+}
+
+.teams .carousel .card{
+    position: relative;
+    top: 4rem;
+    background: transparent;
+    display:inline-flex;
+    border-radius: 6px;
+    padding: 15px 15px;
+    margin-left: 4rem;
+    text-align: center;
+    /* overflow: hidden; */
+    justify-content: space-between;
+    transition: all 0.3s ease;
+}
+.teams .carousel .card:hover{
+    width:auto;
+    background: rgba(4, 48, 99, 0.685);
+}
+.teams .carousel .card .box{
+    display: flex;
+  
+    flex-direction:column;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+}
+
+.teams .carousel .card:hover .box{
+    transform: scale(1.05);
+}
+.teams .carousel .card .text{
+    font-size: 25px;
+    font-weight: 500;
+    margin: 10px 0 7px 0;
+}
+.teams .carousel .card img{
+    height: 150px;
+    width: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 5px solid crimson;
+    transition: all 0.3s ease;
+}
+.teams .carousel .card:hover img{
+    border-color: #fff;
+}
+
+
+ /* ============= media medium devices  query ======== */
+
+
+ @media screen and (max-width :1024px) {
+    .teams .carousel{
+        display: grid;
+        grid-template-columns:1fr 1fr;
+        margin:auto;
+        gap: 1rem;
+    }
+     .teams .carousel .card{
+        top: 1rem;
+        margin-left: 0rem;
+        width: 100%;
+    }
+   
+    .teams .carousel .card:hover{
+        background-color: transparent;
+    }
+   
+}
+
+/* ============= media small devices  query ======== */
+
+@media screen and (max-width :600px) {
+
+    .teams .carousel{
+        /* background-color: rgb(255, 4, 4); */
+        display: grid;
+        grid-template-columns:1fr 1fr;
+        margin:auto;
+        gap: 0.5rem;
+        margin-left: 0rem;
+        width: 50%;
+       
+    }
+    .teams .carousel .card{
+        margin-left: 0rem;
+        width: 100%;
+    }
+   
+    .teams .carousel .card:hover{
+        margin-left: 1rem;
+        width: 100%;
+    }
+   
+}
