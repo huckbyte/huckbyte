@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm HUCKBYTE</h1>
+<h1 align="center">Hi there 👋, I'm HEZI</h1>
 <h3 align="center">A passionate frontend-backend developer from KENYA</h3>
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif"
 
