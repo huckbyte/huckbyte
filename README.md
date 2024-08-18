@@ -1,5 +1,5 @@
 <!--Banner-->
-![Kiran1689 Banner Image](./banner.png)
+![Hezron Banner Image](./banner.png)
 
 <!--Night Owl image-->
 <div>
@@ -7,20 +7,23 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴋɪʀᴀɴ! 
-*Digital Craftsman (Developer / Programmer)*
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Hezron! 
+*Computer System Engineer (Programmer)*
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+<p align="left">
+  Hello! I'm a System Computer Engineer with a robust background in full stack development and a keen interest in machine learning. I'm passionate about building seamless software solutions that bridge the gap between complex data handling and user-friendly interfaces. My technical toolkit includes:
+</p>
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 💁‍♂️ Trusted member and Moderator at [DEV Community](https://dev.to)
 - 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
+- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to).
 - ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
+- 💻 Visit my [Portfolio](https://github.com/huckbyte/huckbyte) for more details about me.
+
 <!--End Intro-->
 
 <!--Profile Count Badge-->
@@ -34,9 +37,9 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="./front.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./back.gif">
+  <img align="left" alt="GIF description" src="./back.gif">
 </picture>
 <br />
 
