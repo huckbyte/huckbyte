@@ -63,6 +63,8 @@
 <br />
 <br />
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huckbyte&show_icons=true&theme=radical)
+
 
 <!--Trophies Section-->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
