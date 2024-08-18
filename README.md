@@ -54,16 +54,15 @@
   
 <h3 align="left">Latest Blog Posts</h3>
 <ul align="left">
-  <li><a href="https://dev.to/dev_kiran/19-open-source-tools-you-should-bookmark-now-5hc4">🧙‍♂️19 Open-Source Tools You Should Bookmark Now🔖</a></li>
-  <li><a href="https://dev.to/dev_kiran/automq-a-cloud-native-replacement-of-apache-kafka-59mg">AutoMQ: A Cloud-Native Replacement of Apache Kafka</a></li>
-  <li><a href="https://dev.to/dev_kiran/boost-your-dev-workflow-with-these-top-tools-4k66">🚀Boost Your Dev Workflow with These Top Tools</a></li>
+  <li><a href="https://dev.to/iso_remo_ede147b006aceeb7/19-open-source-tools-you-should-bookmark-now-5hc4">🧙‍♂️19 Open-Source Tools You Should Bookmark Now🔖</a></li>
+  <li><a href="https://dev.to/iso_remo_ede147b006aceeb7/automq-a-cloud-native-replacement-of-apache-kafka-59mg">AutoMQ: A Cloud-Native Replacement of Apache Kafka</a></li>
+  <li><a href="https://dev.to/iso_remo_ede147b006aceeb7/boost-your-dev-workflow-with-these-top-tools-4k66">🚀Boost Your Dev Workflow with These Top Tools</a></li>
 </ul>
 <br />
 <br />
 <br />
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko)
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huckbyte&show_icons=true&theme=radical)
 
