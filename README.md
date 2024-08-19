@@ -25,7 +25,6 @@
 - ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to).
 - ❤ Contributing to Open Source.
 - 💻 Visit my [Portfolio](https://github.com/huckbyte/huckbyte) for more details about me.
-
 <!--End Intro-->
 
 <!--Profile Count Badge-->
@@ -34,7 +33,6 @@
 </p>
 
 ---
-
 
 <!--Languages and Tools Section-->       
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
@@ -136,7 +134,7 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?&theme=algolia&author=Hezron+Paipai&quote=Success+is+not+final,+failure+is+not+fatal:+It+is+the+courage+to+continue+that+counts.">
+    <img src="https://readme-daily-quotes.vercel.app/api?&theme=algolia&author=Hezi+Paps&quote=Success+is+not+final,+failure+is+not+fatal:+It+is+the+courage+to+continue+that+counts.">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
