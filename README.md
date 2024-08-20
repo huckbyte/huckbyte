@@ -1,7 +1,7 @@
 <!--Banner-->
 
 <p align="center">
-  <img src="./back-2.jpeg" alt="Hezron Banner Image" width="800">
+  <img src="./back-2.jpeg" alt="Hezron Banner Image" width="1000">
 </p>
 
 <!--Night Owl image-->
