@@ -3,8 +3,6 @@
 <p align="center">
   <img src="./optimazer.gif" alt="Hezron Banner Image" width="800" height="500">
 </p>
-<
-
 
 <!--Night Owl image-->
 <div>
