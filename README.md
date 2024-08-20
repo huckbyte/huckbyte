@@ -1,7 +1,7 @@
 <!--Banner-->
 
 <p align="center">
-  <img src="./huck-man.gif" alt="Hezron Banner Image" width="500">
+  <img src="./back-2.jpeg" alt="Hezron Banner Image" width="800">
 </p>
 
 <!--Night Owl image-->
@@ -61,9 +61,6 @@
 <br />
 <br />
 <br />
-
-<!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huckbyte&show_icons=true&theme=radical)
 
 
 <!--Trophies Section-->   
