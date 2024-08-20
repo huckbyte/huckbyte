@@ -1,8 +1,10 @@
 <!--Banner-->
 
 <p align="center">
-  <img src="./back-2.jpeg" alt="Hezron Banner Image" width="1000">
+  <img src="./optimazer.gif" alt="Hezron Banner Image" width="800" height="500">
 </p>
+<
+
 
 <!--Night Owl image-->
 <div>
