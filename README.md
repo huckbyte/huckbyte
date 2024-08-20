@@ -1,8 +1,9 @@
 <!--Banner-->
 
 <p align="center">
-  <img src="./intro-1.jpeg" alt="Hezron Banner Image" width="800">
+  <img src="./huck-man.gif" alt="Hezron Banner Image" width="500">
 </p>
+
 <!--Night Owl image-->
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
